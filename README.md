@@ -1,5 +1,9 @@
-### Hi there 👋
+## Hi, I'm Teguh 👋
 
+I'm a self-taught web developer who passionate in Front End Developer.
+
+### Find me arround the web 🌎 :
+-
 <!--
 **ttrinugroho/ttrinugroho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
